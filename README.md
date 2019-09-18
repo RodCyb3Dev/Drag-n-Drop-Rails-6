@@ -1,6 +1,6 @@
-## Drag-n-Drop-Rails-6
+# Drag-n-Drop-Rails-6
 
-Visit itmammoth for guide [on rails_sortable!](https://github.com/itmammoth/rails_sortable)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/itmammoth/rails_sortable)
 
 Add the following to Gemfile then run bundle to install them.
 
@@ -24,7 +24,6 @@ $(function () {
   $('.sortable').railsSortable();
 });
 ```
-
 Next =>
 
 app/assets/javascripts/bulletin.sort.js
